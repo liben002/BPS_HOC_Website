@@ -1,0 +1,46 @@
+.jumbotron {
+	background-image: url("JB32.jpg");
+}
+.jumbotron p {
+	font-family: "Georgia", serif;
+	text-align: center;
+	color: white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.jumbotron h1 {
+	text-align: center;
+	color: white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.nav-tabs a {
+	color: black;
+}
+.nav-tabs {
+    background-color:#D3D3D3;
+}
+.tab-content {
+    background-color:#303136;
+    color:#fff;
+    padding:5px
+}
+.nav-tabs > li > a {
+    border: medium none;
+}
+.nav-tabs > li > a:hover {
+    background-color: gray !important;
+    border: medium none;
+    border-radius: 0;
+    color:white;
+}
+div.picwrapper {
+	width:100%;
+	text-align:center;
+}
+div.pic {
+	display:inline-block;
+}
+
+}
+body {
+    background: white; 
+}
